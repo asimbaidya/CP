@@ -2,4 +2,4 @@
 
 ## handles
 
-[CodeForcfe](https://codeforces.com/profile/asimbaidya)
+[CodeForce](https://codeforces.com/profile/asimbaidya)
