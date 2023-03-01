@@ -1,9 +1,5 @@
 # explanation
 
-## todo
-
-- [ ] again solve (b-random-team) using graph theory
-
 - [b-random-teams](https://codeforces.com/contest/478/problem/B)
   - [explanation](#b-random-team)
 
