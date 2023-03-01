@@ -1,17 +1,24 @@
 # explanation
 
-[B. Random Teams](https://codeforces.com/contest/478/problem/B)
-
 ## todo
 
-- [ ] again solve using graph theory
+- [ ] again solve (b-random-team) using graph theory
 
-## my approach
+- [b-random-teams](https://codeforces.com/contest/478/problem/B)
+  - [explanation](#b-random-team)
+
+## B random team
 
 Basically, when m = 1, all player will be in same team, so k_max == k_min, and the answer will be sum(1..n-1),
 Else,
 (Case1) 1 team will have maximum number of player & rest of the team will have 1 member(minimum constrain) and this will give k_max &
 (Case2)now for k_min, we need to minimize number of player at each team as much as possible, so, we will equally divide player in each team if possible or n%m team will have one more than rest ... and then result in O(1) complexity, better than graph approach
+
+Also, for sum,this formula
+
+```math
+\sum_1^n = \frac{n(n+1)}{2}
+```
 
 ```cpp
 #include <bits/stdc++.h>
