@@ -1,0 +1,56 @@
+# solving 52 problem from dimiqoj in rust :)
+
+- [ ] [[52]]
+- [ ] [[51]]
+- [ ] [[50]]
+- [ ] [[49]]
+- [ ] [[48]]
+- [ ] [[47]]
+- [ ] [[46]]
+- [ ] [[45]]
+- [ ] [[44]]
+- [ ] [[43]]
+- [ ] [[42]]
+- [ ] [[41]]
+- [ ] [[40]]
+- [ ] [[39]]
+- [ ] [[38]]
+- [ ] [[37]]
+- [ ] [[36]]
+- [ ] [[35]]
+- [ ] [[34]]
+- [ ] [[33]]
+- [ ] [[32]]
+- [ ] [[31]]
+- [ ] [[30]]
+- [ ] [[29]]
+- [ ] [[28]]
+- [ ] [[27]]
+- [ ] [[26]]
+- [ ] [[25]]
+- [ ] [[24]]
+- [ ] [[23]]
+- [ ] [[22]]
+- [ ] [[21]]
+- [ ] [[20]]
+- [ ] [[19]]
+- [ ] [[18]]
+- [ ] [[17]]
+- [ ] [[16]]
+- [ ] [[15]]
+- [ ] [[14]]
+- [x] [[13] tomy miyar pola](23-02-10/dimiq-13-tomy-miyar-pola.rs)
+- [x] [[12] factorial of 100 ninja](23-02-09/dimiq-12-factorial-100-ninja-tech.rs)
+- [x] [[12] factorial of 100](23-02-10/dimiq-12-factorial-1000.rs)
+- [x] [[11] factorial](23-02-09/dimiq-11-factorial.rs)
+- [x] [[10] run rate](23-02-09/dimiq-10-runrate.rs)
+- [x] [[09] square iterative way](23-02-05/dimiq-09-square-iterative-way.rs)
+- [x] [[09] square](23-02-05/23-02-05/dimiq-09-square.rs)
+- [x] [[08] small to large](23-02-05/dimiq-08-small-to-largo.rs)
+- [ ] [[07] numbers](23-02-05/dimiq-07-numbers.rs)
+- [x] [[06] sum](23-01-27/dimiq-06-sum.rs)
+- [x] [[05] boxes](23-01-25/dimiq-05-boxes.rs)
+- [x] [[04] divisors](23-01-25/dimiq-04-divisor.rs)
+- [x] [[03] number table](23-01-24/dimiq-03-number-table.rs)
+- [x] [[02] odd even two](23-01-24/dimiq-02-od-even-two.rs)
+- [x] [[01] odd even](23-01-24/dimiq-01-od-even.rs)
