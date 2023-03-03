@@ -1,10 +1,19 @@
 # what I missed
 
-## [[1]] [https://codeforces.com/contest/1360/problem/D](https://codeforces.com/contest/1360/problem/D)
+## [1] [https://codeforces.com/contest/1360/problem/D](https://codeforces.com/contest/1360/problem/D)
 
-### input
+so, I needed max a divisor of $n$, and the answr is $n/(max_divisor)$ = $min\ value$ as we are minimizing the answer. So for,
 
-so, I needed max a divisor of n, and the answr is n/(max_divisor) = min value as we are minimizing the answer. So for,
+> input
+
+```text
+5
+8 7
+8 1
+6 10
+999999733 999999732
+999999733 999999733
+```
 
 ```python
 ans = n;
@@ -23,13 +32,4 @@ for x in range(1,math.sqrt(n)):
 # complexity:
 # 100*sqrt(1_000_000_000) >  3.162277*10^{6} <  border_case
 
-```
-
-```text
-5
-8 7
-8 1
-6 10
-999999733 999999732
-999999733 999999733
 ```
