@@ -2,7 +2,7 @@
 
 ## [1] [https://codeforces.com/contest/1360/problem/D](https://codeforces.com/contest/1360/problem/D)
 
-so, I needed max a divisor of $n$, and the answr is $n/(max_divisor)$ = $min\ value$ as we are minimizing the answer. So for,
+so, I needed max a divisor of $n$, and the answr is $n/(maxDivisor)$ = $minValue$ package that will satisfy the condition thus get a minimal answer. So for,
 
 > input
 
