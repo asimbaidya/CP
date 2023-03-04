@@ -16,9 +16,14 @@
 
 ### March
 
+- [23-03-04](23-03-04)
+
+  - `implementation` `number-theory|math`
+
 - [23-03-03](23-03-03)
 
-  - [ ] [cf-d-how & what ?](https://codeforces.com/problemset/problem/1360/D)
+  - [x] [cf-d-how & what ?](https://codeforces.com/problemset/problem/1360/D)
+    - [on](23-03-04)
   - [ ] [again-recall-the-method > march23](https://codeforces.com/contest/1294/problem/C)
 
 - [23-03-02](23-03-02)
