@@ -19,6 +19,8 @@
 - [23-03-05](23-03-05)
 
   - `leetcode[4]`
+  - [ ] [ b k'th beautiful string again > mar](https://codeforces.com/contest/1328/problem/B)
+    - [ ] try to understand the implementation of editorial
 
 - [23-03-04](23-03-04)
 
