@@ -2,7 +2,7 @@
 
 ## learnign/learned
 
-- [ ] [[5] create cpp snippet for nCr and nPr](./notes/nRc-nPr-in-cpp.md)
+- [ ] [[5] create cpp snippet for $_nC_r$ and $_nP_r$](./notes/nRc-nPr-in-cpp.md)
 - [ ] [[4] finding-prime-factors](./notes/finding-prime-factors.md)
 - [ ] [[3] convert n distinct number in 1-n range](./notes/distinct-nums-in-1-to-n.md)
 - [ ] [[2] combination & permutation](./notes/combination-and-permutation.md)
