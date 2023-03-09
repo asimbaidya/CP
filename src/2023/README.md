@@ -8,7 +8,7 @@
 - [ ] [[3] convert n distinct number in 1-n range](./notes/distinct-nums-in-1-to-n.md)
   - [ ] how to map distinct number in a range & what are benefits?
 - [ ] [[2] combination & permutation](./notes/combination-and-permutation.md)
-- [ ] [[1] std::uppwer_bound](./notes/algorithms-uppwer_bound-lowerbound.md)
+- [ ] [[1] `stl` `uppwer_bound` `lower-bound`](./notes/algorithms-uppwer_bound-lowerbound.md)
 
 ## Toc
 
@@ -21,7 +21,7 @@
 
 - [23-03-09](23-03-09)
 
-  - [x] [interesting drink](https://codeforces.com/problemset/problem/706/B)
+  - [x] [B. interesting drink](https://codeforces.com/problemset/problem/706/B)
     - again solved [from](23-02-27)
     - [ ] again > mar .. try without binary search & sorting in $O(n+q)$ complexity
 
