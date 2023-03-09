@@ -18,6 +18,10 @@
 
 ### March
 
+- [23-03-09](23-03-09)
+
+  - [repeat] from [23-02-27](23-02-27)
+
 - [23-03-08](23-03-08)
 
   - [ ] [again > mar](https://codeforces.com/problemset/problem/1795/D)
@@ -69,8 +73,8 @@
 - [23-02-27](23-02-27)
 
   - [B interesting drink](https://codeforces.com/problemset/problem/706/B)
-    - [ ] how to map distinct number in a range & what are benefits?
-    - [ ] again solve & review binary search & `uppwer_bound`,`lower_bound`
+    - [x] again solve & review binary search & `uppwer_bound`,`lower_bound`
+  - [ ] how to map distinct number in a range & what are benefits?
 
 ### january
 
