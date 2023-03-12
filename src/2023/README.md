@@ -19,10 +19,16 @@
 
 ### March
 
+- [23-03-12(explanation)](23-03-12)
+
+  - [x] [E. Vlad and a Pair of Numbers](https://codeforces.com/problemset/problem/1790/E)
+    - `bitmask`
+    - [ ] again > mar
+
 - [23-03-11](23-03-11)
 
   - !! [E. Vlad and a Pair of Numbers](https://codeforces.com/problemset/problem/1790/E)
-    - [ ] todo
+    - [x] solved [on](23-03-12)
 
 - [23-03-09](23-03-09)
 
