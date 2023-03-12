@@ -1,11 +1,10 @@
 todos.md
 
-in*
+in
 input*
 input.txt
-out*
 out
-output
+output*
 output.txt
 
 a.out
@@ -24,7 +23,6 @@ testing*
 *log
 
 __pycache__
-__pycache__*
 
 
 chatgpt*
