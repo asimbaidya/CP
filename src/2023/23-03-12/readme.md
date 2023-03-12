@@ -26,11 +26,11 @@ we can also derive equation for
 
 .. however, if another approach is(editorial)
 if we consider $a=x$ & $b=0$, then $a \oplus b = x$ already holds, now to make
-$ \frac{a+b}{2} = x$ we need to add $\frac{x}{2}$ to both a & b, which makes
+$\frac{a+b}{2}$ $=x$ we need to add $\frac{x}{2}$ to both a & b, which makes
 
 ```math
-a &= \frac{x}{2}+x
-b &=  x/2
+a = \frac{x}{2}+x
+b =  x/2
 ```
 
 otherwise not possible
