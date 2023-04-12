@@ -25,11 +25,11 @@
 
   - [x] 1 problem solved from 52pack
 
-- [23-04-12](23-04-11)
+- [23-04-12](#april)
 
   - 🔴 #1 no time for cp
 
-- [23-04-11 ](#april)
+- [23-04-11 ](./23-04-11)
 
   - [x] 2 problem solved from 52pack
 
