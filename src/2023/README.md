@@ -2,6 +2,8 @@
 
 ## learnign/learned
 
+> as of 13april, I ... havent done any of the below task,hope to clear up in april
+
 - [ ] [[6] modular inverse for what again](./notes/modular-inverse.md)
 - [ ] [[5] create cpp snippet for nCr and nPr](./notes/nRc-nPr-in-cpp.md)
 - [ ] [[4] finding-prime-factors](./notes/finding-prime-factors.md)
@@ -17,7 +19,19 @@
 - [January](#january)
 - [bal-sal](#bal-sal)
 
+### April
+
+- [23-04-13 ](23-04-13)
+
+  - [x] 1 problem solved from 52pack
+
+- [23-04-12 ](23-04-12)
+
+  - [x] 2 problem solved from 52pack
+
 ### March
+
+> after 12 April, I was just lost
 
 - [23-03-12(explanation)](23-03-12)
 

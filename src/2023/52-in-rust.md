@@ -36,9 +36,9 @@
 - [ ] [[19]]
 - [ ] [[18]]
 - [ ] [[17]]
-- [ ] [[16]]
+- [x] [[16] + reverse each words](./23-04-13/16-reverse-each-word-in-place.rs)
 - [x] [[15] frequency count](./23-04-11/15-letter-count-in-line.rs)
-- [x] [[14] single letter count](./23-04-11/14-letter-count-in-line.rs)
+- [x] [[14] + single letter count](./23-04-11/14-letter-count-in-line.rs)
 - [x] [[13] tomy miyar pola](./23-02-10/dimiq-13-tomy-miyar-pola.rs)
 - [x] [[12] factorial of 100 ninja](./23-02-09/dimiq-12-factorial-100-ninja-tech.rs)
 - [x] [[12] factorial of 100](./23-02-10/dimiq-12-factorial-1000.rs)
