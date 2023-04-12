@@ -25,9 +25,17 @@
 
   - [x] 1 problem solved from 52pack
 
-- [23-04-12 ](23-04-12)
+- [23-04-12](23-04-11)
+
+  - 🔴 #1 no time for cp
+
+- [23-04-11 ](#april)
 
   - [x] 2 problem solved from 52pack
+
+- [23-04-10](#april)
+
+  - 🔴 #28 no time for cp
 
 ### March
 
