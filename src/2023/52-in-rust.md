@@ -35,7 +35,8 @@
 - [ ] [[20]]
 - [ ] [[19]]
 - [ ] [[18]]
-- [ ] [[17]]
+- [ ] [[17] + count vowels in input line](./23-04-17/17-vowel-count.rs)
+  - [x] [Using HashSet](./23-04-17/17-vowel-count-with-HashSet.rs)
 - [x] [[16] + reverse each words](./23-04-13/16-reverse-each-word-in-place.rs)
 - [x] [[15] frequency count](./23-04-11/15-letter-count-in-line.rs)
 - [x] [[14] + single letter count](./23-04-11/14-letter-count-in-line.rs)

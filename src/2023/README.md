@@ -21,6 +21,15 @@
 
 ### April
 
+- [23-04-17 ](23-04-17)
+
+  - **stuff in rust🦀**
+    - array
+    - iter()
+    - cloned()
+    - collect()
+    - chars()
+
 - [23-04-13 ](23-04-13)
 
   - [x] 1 problem solved from 52pack
