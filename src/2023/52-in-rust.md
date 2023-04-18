@@ -34,7 +34,7 @@
 - [ ] [[21]]
 - [ ] [[20]]
 - [ ] [[19]]
-- [ ] [[18]]
+- [ ] [[18] + vowels-consonant-from-input](./23-04-18/18-vowel-and-consonants.rs)
 - [ ] [[17] + count vowels in input line](./23-04-17/17-vowel-count.rs)
   - [x] [Using HashSet](./23-04-17/17-vowel-count-with-HashSet.rs)
 - [x] [[16] + reverse each words](./23-04-13/16-reverse-each-word-in-place.rs)

@@ -21,6 +21,14 @@
 
 ### April
 
+- - [23-04-19](23-04-19)
+  - **🦀**
+  - matches!();
+  - ch.is_alphabetic();
+  - vec.push()
+  - HashMap::new()
+  - hashmap.insert()
+
 - [23-04-17 ](23-04-17)
 
   - **stuff in rust🦀**
