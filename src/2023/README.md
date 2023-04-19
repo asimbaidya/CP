@@ -21,7 +21,13 @@
 
 ### April
 
-- - [23-04-18](23-04-18)
+- [23-04-19](23-04-19)
+
+  - [ ] how OK() & Err() works ?
+  - [ ] how stdin works in os ?
+
+- [23-04-18](23-04-18)
+
   - **🦀**
   - matches!();
   - ch.is_alphabetic();
