@@ -21,6 +21,17 @@
 
 ### April
 
+- [23-04-21](23-04-21)
+
+  - [ ] how to find prime in rust?
+  - [ ] find sqrt of number in rust?
+  - [ ] find ln2 of a number in rust?
+  - [ ] return vector from a function
+  - [ ] return array from a function
+  - [ ] `container[x]` here `x` has to be usize?
+  - [ ] `(1...100).step_by(2)` to iterate all evens in 1..100
+  - [ ] again > april
+
 - [23-04-19](23-04-19)
 
   - [ ] how OK() & Err() works ?

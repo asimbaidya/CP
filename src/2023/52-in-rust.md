@@ -30,8 +30,8 @@
 - [ ] [[25]]
 - [ ] [[24]]
 - [ ] [[23]]
-- [ ] [[22]]
-- [ ] [[21]]
+- [ ] [[22] + prime-count](./23-04-21/22-prime-count-in-range.rs)
+- [ ] [[21] + reverse-input(./23-04-21/21-reverse-input.rs)]
 - [x] [[20] + word-count-II](./23-04-19/20-word-count-same-but-two.rs)
   - [x] [reading stdin until EOF](./23-04-19/read-until-efo-better.rs)
 - [x] [[19] + word-count-I](./23-04-19/19-count-words.rs)
