@@ -2,6 +2,12 @@
 
 > way to handles prime related stuff in rust
 
+```bash
+# to append file content in readme.md in a ... on a dur
+for f in *.rs
+printf "## $f\n\n\`\`\`rust\n$(bat $f)\n\`\`\`\n" >> readme.md
+```
+
 ## 21-reverse-input.rs
 
 ```rust
