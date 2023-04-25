@@ -29,3 +29,8 @@ chatgpt*
 gpt*
 ai*
 net*
+
+
+target
+Cargo.lock
+Cargo.toml
