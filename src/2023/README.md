@@ -21,6 +21,23 @@
 
 ### April
 
+- [23-04-28](23-04-28)
+
+  - [ ] **red** `recall how to read a & parse a line of integer into a i32 array?`
+    - [ ] first step?
+    - [ ] how many method need to call?
+
+- [23-04-25](23-04-25)
+
+  - [ ] deno write in stdout without `\n` ?
+  - [ ] deno input from usr?
+  - [ ] rust `b'A'` vs `65 as u8` what is common?
+  - [ ] **how type works in rust?**
+
+- [23-04-23](23-04-23)
+
+  - [ ] how to take an array input in go?
+
 - [23-04-21](23-04-21)
 
   - [ ] how to find prime in rust?

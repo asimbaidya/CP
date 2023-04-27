@@ -28,8 +28,8 @@
 - [ ] [[27]]
 - [ ] [[26]]
 - [ ] [[25]]
-- [ ] [[24]]
-- [ ] [[23]]
+- [ ] [[24] + print-alternate](./23-04-28/24-print-alternate-element.rs)
+- [ ] [[23] + char-to-digit](./23-04-25/23-char-to-digit.rs)
 - [ ] [[22] + prime-count](./23-04-21/22-prime-count-in-range.rs)
 - [ ] [[21] + reverse-input(./23-04-21/21-reverse-input.rs)]
 - [x] [[20] + word-count-II](./23-04-19/20-word-count-same-but-two.rs)
