@@ -21,6 +21,13 @@
 
 ### April
 
+- [23-04-29](23-04-29)
+
+  - in rust,
+
+    - how to find sum of a vector/map?
+    - how to convert a each char in "323" to a digit?
+
 - [23-04-28](23-04-28)
 
   - [ ] **red** `recall how to read a & parse a line of integer into a i32 array?`

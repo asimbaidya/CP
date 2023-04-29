@@ -25,13 +25,13 @@
 - [ ] [[30]]
 - [ ] [[29]]
 - [ ] [[28]]
-- [ ] [[27]]
-- [ ] [[26] + make-it-half-if-greater-than-1](./23-04-28/26-eat-half-at-a-time.rs)
+- [x] [[27] + arm-strong-number](./23-04-29/27-arm-strong-number.rs)
+- [x] [[26] + make-it-half-if-greater-than-1](./23-04-28/26-eat-half-at-a-time.rs)
 - [ ] [[25] gcd-review again]
-- [ ] [[24] + print-alternate](./23-04-28/24-print-alternate-element.rs)
-- [ ] [[23] + char-to-digit](./23-04-25/23-char-to-digit.rs)
-- [ ] [[22] + prime-count](./23-04-21/22-prime-count-in-range.rs)
-- [ ] [[21] + reverse-input(./23-04-21/21-reverse-input.rs)]
+- [x] [[24] + print-alternate](./23-04-28/24-print-alternate-element.rs)
+- [x] [[23] + char-to-digit](./23-04-25/23-char-to-digit.rs)
+- [x] [[22] + prime-count](./23-04-21/22-prime-count-in-range.rs)
+- [x] [[21] + reverse-input(./23-04-21/21-reverse-input.rs)]
 - [x] [[20] + word-count-II](./23-04-19/20-word-count-same-but-two.rs)
   - [x] [reading stdin until EOF](./23-04-19/read-until-efo-better.rs)
 - [x] [[19] + word-count-I](./23-04-19/19-count-words.rs)
