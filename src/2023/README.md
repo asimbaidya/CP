@@ -4,6 +4,9 @@
 
 > as of 13april, I ... havent done any of the below task,hope to clear up in april
 
+- [ ] [[9] mersenne_prime](#)
+- [ ] [[8] meissel-lehmer algorithm](#)
+- [ ] [[7] modular-exponent](#)
 - [ ] [[6] modular inverse for what again](./notes/modular-inverse.md)
 - [ ] [[5] create cpp snippet for nCr and nPr](./notes/nRc-nPr-in-cpp.md)
 - [ ] [[4] finding-prime-factors](./notes/finding-prime-factors.md)
@@ -18,6 +21,17 @@
 - [February](#february)
 - [January](#january)
 - [bal-sal](#bal-sal)
+
+### May
+
+- [23-05-05](23-05-05)
+
+  - in rust,
+
+    - how to convert 🔥 to unicode value(aka u32)
+    - how to convert the converted unicode back to char or string?
+
+  - what is mersenne_prime ?
 
 ### April
 

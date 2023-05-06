@@ -21,10 +21,11 @@
 - [ ] [[34]]
 - [ ] [[33]]
 - [ ] [[32]]
-- [ ] [[31]]
-- [ ] [[30]]
-- [ ] [[29]]
-- [ ] [[28]]
+- [x] [[31] + perfect-number in range](./23-05-05/31-perfect-number-in-range-faster.rs)
+  - [x] [perfect-number in range](./23-05-05/31-perfect-number-in-range.rs)
+- [x] [[30] + perfect-number](./23-05-05/find-perfect-num.py)
+- [x] [[29] + char-identification](./23-05-05/29-char-identification.rs)
+- [x] [[28] + is-array-sorted?](./23-04-30/28-is-sorted-array.rs)
 - [x] [[27] + arm-strong-number](./23-04-29/27-arm-strong-number.rs)
 - [x] [[26] + make-it-half-if-greater-than-1](./23-04-28/26-eat-half-at-a-time.rs)
 - [ ] [[25] gcd-review again]

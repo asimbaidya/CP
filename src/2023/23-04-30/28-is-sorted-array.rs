@@ -7,7 +7,9 @@ fn main() {
     for _ in 0..test_case {
         let arr_size: usize = lines.next().unwrap().parse().unwrap();
 
-        let mut nums = vec![0 as i32; arr_size];
+        // vector of fixed size
+        // let mut nums = vec![0 as i32; arr_size];
+        let mut nums = vec![0; arr_size];
 
         for i in 0..arr_size {
             let num: i32 = lines.next().unwrap().parse().unwrap();
