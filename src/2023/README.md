@@ -4,16 +4,17 @@
 
 > as of 13april, I ... havent done any of the below task,hope to clear up in april
 
-- [ ] [[9] mersenne_prime](#)
-- [ ] [[8] meissel-lehmer algorithm](#)
-- [ ] [[7] modular-exponent](#)
-- [ ] [[6] modular inverse for what again](./notes/modular-inverse.md)
-- [ ] [[5] create cpp snippet for nCr and nPr](./notes/nRc-nPr-in-cpp.md)
-- [ ] [[4] finding-prime-factors](./notes/finding-prime-factors.md)
-- [ ] [[3] convert n distinct number in 1-n range](./notes/distinct-nums-in-1-to-n.md)
+- [x] [[10] multiple of i that is `>=` x](./23-05-06/next-multiple-of-i-after-x.rs)
+- [ ] [[09] mersenne_prime](#)
+- [ ] [[08] meissel-lehmer algorithm](#)
+- [ ] [[07] modular-exponent](#)
+- [ ] [[06] modular inverse for what again](./notes/modular-inverse.md)
+- [ ] [[05] create cpp snippet for nCr and nPr](./notes/nRc-nPr-in-cpp.md)
+- [ ] [[04] finding-prime-factors](./notes/finding-prime-factors.md)
+- [ ] [[03] convert n distinct number in 1-n range](./notes/distinct-nums-in-1-to-n.md)
   - [ ] how to map distinct number in a range & what are benefits?
-- [ ] [[2] combination & permutation](./notes/combination-and-permutation.md)
-- [ ] [[1] `stl` `uppwer_bound` `lower-bound`](./notes/algorithms-uppwer_bound-lowerbound.md)
+- [ ] [[02] combination & permutation](./notes/combination-and-permutation.md)
+- [ ] [[01] `stl` `uppwer_bound` `lower-bound`](./notes/algorithms-uppwer_bound-lowerbound.md)
 
 ## Toc
 
@@ -23,6 +24,15 @@
 - [bal-sal](#bal-sal)
 
 ### May
+
+- [23-05-06](23-05-06)
+
+  - in rust,
+  - **how to unpack array value into a variables?**
+  - **recall how to read vector or int in rust?**
+  - consider int a <= i,x,n <= 1^10,
+    - [ ] find lowest multiple of i that is `>=` x?
+    - [ ] find height multiple of i that is `<=` x?
 
 - [23-05-05](23-05-05)
 

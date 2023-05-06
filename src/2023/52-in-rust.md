@@ -19,8 +19,8 @@
 - [ ] [[36]]
 - [ ] [[35]]
 - [ ] [[34]]
-- [ ] [[33]]
-- [ ] [[32]]
+- [ ] [[33] + multiple-of-i-until-n-start-after-x](./23-05-06/33-multiple-of-i-in-range-x-to-n.rs)
+- [ ] [[32] + multiples](./23-05-06/32-multiple-of-x-until-n.rs)
 - [x] [[31] + perfect-number in range](./23-05-05/31-perfect-number-in-range-faster.rs)
   - [x] [perfect-number in range](./23-05-05/31-perfect-number-in-range.rs)
 - [x] [[30] + perfect-number](./23-05-05/find-perfect-num.py)
