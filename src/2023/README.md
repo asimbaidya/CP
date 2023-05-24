@@ -25,11 +25,17 @@
 
 ### May
 
+- [23-05-25](23-05-25)
+
+  - in rust (2 simple problem from dimiqoj)
+
 - [23-05-06](23-05-06)
 
   - in rust,
-  - **how to unpack array value into a variables?**
-  - **recall how to read vector or int in rust?**
+    - **how to unpack array value into a variables?**
+    - **recall how to read vector or int in rust?**
+    - on what data type `ceil()` & `floor()` exist?
+    - how to do floor division of `u32` in rust?
   - consider int a <= i,x,n <= 1^10,
     - [ ] find lowest multiple of i that is `>=` x?
     - [ ] find height multiple of i that is `<=` x?

@@ -16,9 +16,9 @@
 - [ ] [[39]]
 - [ ] [[38]]
 - [ ] [[37]]
-- [ ] [[36]]
-- [ ] [[35]]
-- [ ] [[34]]
+- [ ] [[36] -]
+- [ ] [[35] + is-inside-circle](./23-05-25/35-is-inside-circle.rs)
+- [ ] [[34] + divisible](./23-05-25/34-divisible.rs)
 - [ ] [[33] + multiple-of-i-until-n-start-after-x](./23-05-06/33-multiple-of-i-in-range-x-to-n.rs)
 - [ ] [[32] + multiples](./23-05-06/32-multiple-of-x-until-n.rs)
 - [x] [[31] + perfect-number in range](./23-05-05/31-perfect-number-in-range-faster.rs)
