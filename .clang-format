@@ -1,0 +1,5 @@
+IndentWidth: 4
+AllowShortFunctionsOnASingleLine: None
+BasedOnStyle: "Google"
+AlwaysBreakBeforeMultilineStrings: false
+BreakStringLiterals: false
