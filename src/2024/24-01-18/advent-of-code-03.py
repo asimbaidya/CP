@@ -1,3 +1,7 @@
+# analysis
+# Complexity: O(n), but not sure how to implement part II :(
+
+
 sum_of_numbers = 0
 
 with open("./input") as file:
