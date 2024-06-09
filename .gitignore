@@ -11,7 +11,7 @@ a.out
 *a.out
 .*class
 
-# ** no file should  start  with  
+# ** no file should  start  with
 # _ is common flag that means not tracking!
 _*
 test*
@@ -36,3 +36,5 @@ net*
 target
 Cargo.lock
 Cargo.toml
+
+.DS_Store
