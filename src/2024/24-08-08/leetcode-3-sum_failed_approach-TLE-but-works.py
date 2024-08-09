@@ -9,7 +9,6 @@ class Solution:
         static = 0
 
         ans = []
-        included = {}
 
         while static <= size - 3:
             head = static + 1
@@ -33,9 +32,8 @@ class Solution:
                         sorted_nums[head],
                         sorted_nums[tail],
                     ]
-                    if not included.get("".join(sorted([str(x) for x in triplet]))):
+                    if triplet not in ans:
                         ans.append(triplet)
-                        included["".join(sorted([str(x) for x in triplet]))] = True
 
                     head += 1
                     tail -= 1
@@ -44,17 +42,15 @@ class Solution:
                 else:
                     tail -= 1
             static += 1
-        # FUCK THIS SHIT! won't work with this approach
-        print(included)
         return ans
 
 
 def main():
     s = Solution()
-    # print(s.threeSum(nums=[-1, 0, 1, 2, -1, -4]))
-    # # Output: [[-1, -1, 2], [-1, 0, 1]]
-    # print(s.threeSum(nums=[0, 1, 1]))
-    # print(s.threeSum(nums=[0, 0, 0]))
+    print(s.threeSum(nums=[-1, 0, 1, 2, -1, -4]))
+    # Output: [[-1, -1, 2], [-1, 0, 1]]
+    print(s.threeSum(nums=[0, 1, 1]))
+    print(s.threeSum(nums=[0, 0, 0]))
     print(s.threeSum([3, 0, -2, -1, 1, 2]))
 
 
