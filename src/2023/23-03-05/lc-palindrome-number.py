@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/palindrome-number/
 
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
 
@@ -14,4 +15,3 @@ class Solution:
             s = str(x)
             ss = "".join(s[::-1])
             return ss == s
-

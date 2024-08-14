@@ -8,8 +8,8 @@ class ListNode:
         self.next = None
 
 
-def revList(head:ListNode):
-    # this will messed up the list because there exist common nodes 
+def revList(head: ListNode):
+    # this will messed up the list because there exist common nodes
     rev_head = None
     while head is not None:
         # iterate
@@ -20,19 +20,17 @@ def revList(head:ListNode):
         tmp.next = rev_head
         rev_head = tmp
     return rev_head
-    
-    
+
 
 class Solution:
     def getIntersectionNode(
         self, headA: ListNode, headB: ListNode
     ) -> Optional[ListNode]:
 
-
         # reverse
         headA = revList(headA)
         headB = revList(headB)
-        
+
         tmpA = headA
         tmpB = headB
         ans_node = None
@@ -41,13 +39,10 @@ class Solution:
             ans_node = tmpA
             tmpA = tmpA.next
             tmpB = tmpB.next
-        
+
         headA = revList(headA)
         headB = revList(headB)
         return ans_node
-
-
-
 
 
 def main():
